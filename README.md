@@ -4,4 +4,4 @@
 <p>•PHP</p>
 <p>•FontAwesome Icon</p>
 <p>•Javascript And JQuery</p>
-<Ingram src='https://i.imgur.com/RwqPGKq.png'/>
+<img src='https://i.imgur.com/RwqPGKq.png'/>
